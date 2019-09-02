@@ -1,9 +1,3 @@
-README.md
-			Secure Delete
-			
-			by Techienethead
-
-
 Secure delete is a program that calls on the Shred function within debian
 based systems.The idea behind Secure Delete is to fully overwrite the file
 by replacing it with warped characters and finally by 0's, then reducing 
@@ -15,3 +9,12 @@ cannot see the file.
 Thank you for choosing Secure Delete.
 
 ^.^
+
+Usage:
+
+chmod +x securedelete.sh
+./securedelete.sh
+
+Requirements
+
+sudo apt install figlet -y
