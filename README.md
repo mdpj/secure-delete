@@ -13,6 +13,7 @@ Thank you for choosing Secure Delete.
 Usage:
 
 chmod +x securedelete.sh
+
 ./securedelete.sh
 
 Requirements
