@@ -16,6 +16,6 @@ chmod +x securedelete.sh
 
 ./securedelete.sh
 
-Requirements
+Requirements:
 
 sudo apt install figlet -y
